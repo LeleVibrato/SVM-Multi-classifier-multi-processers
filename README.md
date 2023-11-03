@@ -65,7 +65,7 @@ Training complete!
 Number of training samples: 8566; Dimensions: 256; Number of classes: 10
 Testing the classifier...
 Number of test samples: 2432
-Test set accuracy: 92.11%
+Test set accuracy: 94.82%
 
 Total time taken:  352 seconds
 ```
