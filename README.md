@@ -62,7 +62,7 @@ Classifier training completed: 43/45 ['7', '8']
 Classifier training completed: 44/45 ['7', '9']
 Classifier training completed: 45/45 ['8', '9']
 Training complete!
-Number of training samples: 8566; Dimensions: 256; Number of classes: 10
+Number of training samples: 7291; Dimensions: 256; Number of classes: 10
 Testing the classifier...
 Number of test samples: 2432
 Test set accuracy: 94.82%
