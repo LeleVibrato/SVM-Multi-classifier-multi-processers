@@ -67,5 +67,5 @@ Testing the classifier...
 Number of test samples: 2432
 Test set accuracy: 92.11%
 
-Total time taken:  545 seconds
+Total time taken:  352 seconds
 ```
